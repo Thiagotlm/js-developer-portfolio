@@ -7,19 +7,19 @@
   "skills": {
     "hardSkills": [
       {
-        "name": "Github",
+        "name": "github",
         "logo": "https://github.com/Thiagotlm/portfolio/blob/main/data/imgs/github.png"
       },
       {
-        "name": "Js",
+        "name": "js",
         "logo": "https://github.com/Thiagotlm/portfolio/blob/main/data/imgs/js.png"
       },
       {
-        "name": "Html",
+        "name": "html",
         "logo": "https://github.com/Thiagotlm/portfolio/blob/main/data/imgs/html.png"
       },
       {
-        "name": "Css",
+        "name": "css",
         "logo": "https://github.com/Thiagotlm/portfolio/blob/main/data/imgs/css.png"
       }
     ],
