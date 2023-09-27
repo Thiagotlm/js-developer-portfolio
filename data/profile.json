@@ -9,19 +9,19 @@
     "hardSkills": [
       {
         "name": "github",
-        "logo": "https://github.com/Thiagotlm/portfolio/blob/main/data/imgs/github.png"
+        "logo": "https://github.com/thiagotlm/portfolio/blob/main/data/imgs/github.png"
       },
       {
         "name": "js",
-        "logo": "https://github.com/Thiagotlm/portfolio/blob/main/data/imgs/js.png"
+        "logo": "https://github.com/thiagotlm/portfolio/blob/main/data/imgs/js.png"
       },
       {
         "name": "html",
-        "logo": "https://github.com/Thiagotlm/portfolio/blob/main/data/imgs/html.png"
+        "logo": "https://github.com/thiagotlm/portfolio/blob/main/data/imgs/html.png"
       },
       {
         "name": "css",
-        "logo": "https://github.com/Thiagotlm/portfolio/blob/main/data/imgs/css.png"
+        "logo": "https://github.com/thiagotlm/portfolio/blob/main/data/imgs/css.png"
       }
     ],
     "softSkills": [
