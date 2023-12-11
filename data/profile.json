@@ -8,27 +8,27 @@
   "skills": {
     "hardSkills": [
       {
-        "name": "figma",
+        "name": "Figma",
         "logo": "https://s3-alpha.figma.com/hub/file/1939051750/a36cea32-4870-4e32-8955-ba366c093317-cover.png"
       },
       {
-        "name": "react",
+        "name": "React",
         "logo": "https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png"
       },
       {
-        "name": "github",
+        "name": "Github",
         "logo": "https://seeklogo.com/images/G/github-logo-2E3852456C-seeklogo.com.png"
       },
       {
-        "name": "js",
+        "name": "Js",
         "logo": "https://icons-for-free.com/iconfiles/png/512/javascript-1331550889870124968.png"
       },
       {
-        "name": "html",
+        "name": "Html",
         "logo": "https://icons.iconarchive.com/icons/cornmanthe3rd/plex/72/Other-html-5-icon.png"
       },
       {
-        "name": "css",
+        "name": "Css",
         "logo": "https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/css-icon.png"
       }
     ],
