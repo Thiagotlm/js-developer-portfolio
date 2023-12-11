@@ -8,6 +8,10 @@
   "skills": {
     "hardSkills": [
       {
+        "name": "react",
+        "logo": "https://toppng.com/uploads/preview/react-native-svg-transformer-allows-you-import-svg-aperture-science-innovators-logo-11562851994zqcpwozsvy.png"
+      },
+      {
         "name": "github",
         "logo": "https://seeklogo.com/images/G/github-logo-2E3852456C-seeklogo.com.png"
       },
